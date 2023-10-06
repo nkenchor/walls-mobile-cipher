@@ -1,0 +1,18 @@
+name: walls_cipher_service_dart
+description: A sample command-line application.
+version: 1.0.0
+
+environment:
+  sdk: ^3.1.3
+
+dependencies:
+  path: ^1.8.0
+  shelf: ^1.2.0
+  shelf_router: ^1.1.4
+  get_it: any
+  pointycastle: any
+
+
+dev_dependencies:
+  lints: ^2.0.0
+  test: ^1.21.0
